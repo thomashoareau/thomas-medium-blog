@@ -96,7 +96,7 @@ const gear = {
   "Brevite Jumper laptop and camera bag": {
     category: "Camera Gear",
     image: "https://m.media-amazon.com/images/I/51ER+ZLvPtL._AC_SL1500_.jpg",
-    desc: "Compact Camera Backpack - Minimalist & Travel-friendly",
+    desc: "Compact Camera Backpack - Minimalist & Travel-friendly. Designed for someone who need to carry their laptops and camera gear with them.",
     stores: {
       amazon: {
         affiliateLink: "https://www.amazon.com/dp/B08HVB5ZGK",
