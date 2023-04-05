@@ -7,8 +7,8 @@ module.exports = {
       name: `Thomas Hoareau`,
       summary: `Thomas Hoareau is a Software Engineer & Professionnal Sports Bettor based in Europe.`,
     },
-    description: `Thomas Hoareau is aSoftware Engineer & Professionnal sports bettor based in Europe.`,
-    siteUrl: `https://www.google.com/`,
+    description: `Thomas Hoareau is a Software Engineer & Professionnal sports bettor based in Europe.`,
+    siteUrl: `https://thomashoareau.io/`,
     social: {
       linkedin: `thomashoareau`,
       github: `thomashoareau`,
@@ -187,7 +187,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `TH Blog`,
-        short_name: `https://www.youtube.com/`,
+        short_name: `https://thomashoareau.io/`,
         start_url: `/`,
         background_color: `#121212`,
         theme_color: `???`,

@@ -19,6 +19,7 @@ import { FaInstagram } from "react-icons/fa"
 import { FaGithub } from "react-icons/fa"
 import { FaLinkedin } from "react-icons/fa"
 
+import { MdSportsFootball } from "react-icons/md"
 
 
 
@@ -40,6 +41,12 @@ const profiles = {
     desc: "@thomasrhoareau",
     url: "https://www.instagram.com/thomasrhoareau/",
     icon: <FaInstagram />,
+  },
+  ps3838: {
+    name: "PS3838",
+    desc: "Access an Asian Sportsbook that offers high limits with competitive odds",
+    url: "https://asianconnect88.com/register/?pk_kwd=iE5gHydUte",
+    icon: <MdSportsFootball />
   }
 }
 
