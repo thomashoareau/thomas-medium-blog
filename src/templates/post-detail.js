@@ -167,7 +167,7 @@ const PostDetailTemplate = ({ data, location }) => {
 
   const handleTooltipOpen = () => {
     setOpen(true)
-    navigator.clipboard.writeText(`https://b-r.io${location.pathname}`)
+    navigator.clipboard.writeText(`https://thomashoareau.io${location.pathname}`)
     setTimeout(() => {
       setOpen(false)
     }, 700)
@@ -258,7 +258,7 @@ const PostDetailTemplate = ({ data, location }) => {
                     },
                   }}
                 >
-                  BR
+                  TH
                 </Avatar>
                 <Stack>
                   <Typography variant="body1">Thomas Hoareau</Typography>
@@ -427,6 +427,7 @@ export const pageQuery = graphql`
       }
     }
     previous: mdx(id: { eq: $previousPostId }) {
+      excerpt(pruneLength: 160)
       fields {
         slug
       }
@@ -444,6 +445,7 @@ export const pageQuery = graphql`
       }
     }
     next: mdx(id: { eq: $nextPostId }) {
+      excerpt(pruneLength: 160)
       fields {
         slug
       }
