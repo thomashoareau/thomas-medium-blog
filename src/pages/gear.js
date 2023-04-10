@@ -33,7 +33,7 @@ const gear = {
     desc: "Sleek, high-performance, offering exceptional computing power and user experience for professionals and creatives alike.",
     stores: {
       amazon: {
-        affiliateLink: "https://www.amazon.com/dp/B0B3C5HNXJ",
+        affiliateLink: "https://amzn.to/3Kpq7wx",
         icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1024px-Amazon_logo.svg.png"
       }
     }
@@ -44,7 +44,7 @@ const gear = {
     desc: "Ergonomic and comfortable to be used for all day use, love the scrolling! Great DPI capability and easy software to config with.",
     stores: {
       amazon: {
-        affiliateLink: "https://www.amazon.com/dp/B09HM94VDS",
+        affiliateLink: "https://amzn.to/41eloVb",
         icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1024px-Amazon_logo.svg.png"
       }
     }
@@ -55,7 +55,7 @@ const gear = {
     desc: "Experience ergonomic comfort and premium typing with smart illumination, ensuring improved productivity - guaranteed!",
     stores: {
       amazon: {
-        affiliateLink: "https://www.amazon.com/dp/B07XD3VS62/",
+        affiliateLink: "https://amzn.to/43hPKIh",
         icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1024px-Amazon_logo.svg.png"
       }
     }
@@ -66,7 +66,7 @@ const gear = {
     desc: "A 3840 x 2160 IPS Display, great for multitasking. Could be used as a TV if needed.",
     stores: {
       amazon: {
-        affiliateLink: "https://www.amazon.com/dp/B09TWW7RS1",
+        affiliateLink: "https://amzn.to/3o29a3C",
         icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1024px-Amazon_logo.svg.png"
       }
     }
@@ -77,7 +77,7 @@ const gear = {
     desc: "Versatile full-frame mirrorless camera, great autofocus capabilities, and interchangeable lenses.",
     stores: {
       amazon: {
-        affiliateLink: "https://www.amazon.com/dp/B07B43WPVK",
+        affiliateLink: "https://amzn.to/41bCO4S",
         icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1024px-Amazon_logo.svg.png"
       }
     }
@@ -88,7 +88,7 @@ const gear = {
     desc: "A versatile black zoom lens for Sony E-mount cameras, offering remarkable performance in a compact design.",
     stores: {
       amazon: {
-        affiliateLink: "https://www.amazon.com/dp/B08B34HWKV",
+        affiliateLink: "https://amzn.to/3ZSYQZe",
         icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1024px-Amazon_logo.svg.png"
       }
     }
@@ -99,7 +99,7 @@ const gear = {
     desc: "Compact Camera Backpack - Minimalist & Travel-friendly. Designed for someone who need to carry their laptops and camera gear with them.",
     stores: {
       amazon: {
-        affiliateLink: "https://www.amazon.com/dp/B08HVB5ZGK",
+        affiliateLink: "https://amzn.to/40SAik5",
         icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1024px-Amazon_logo.svg.png"
       }
     }
