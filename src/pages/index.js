@@ -9,6 +9,7 @@ import Seo from "../components/seo"
 import Tags from "../components/tagsPanel"
 
 // MUI components
+import Alert from "@mui/material/Alert"
 import Box from "@mui/material/Box"
 import Container from "@mui/material/Container"
 import Divider from "@mui/material/Divider"
@@ -92,6 +93,17 @@ const Index = ({ data, location }) => {
         }}
       >
         {/* category tabs selector */}
+        <Alert
+          severity="info"
+          sx={{
+            backgroundColor: "primary.light",
+            color: "primary.dark",
+            "& .MuiSvgIcon-root": { color: "primary.dark" },
+          }}
+          icon={"⏳"}
+        >
+          Currently ramping up my skills in Next.js for an exciting new project in the world of sports betting!
+        </Alert>
         <Box
           sx={{
             width: "100%",
